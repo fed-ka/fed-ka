@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](http://www.fedorkarmanov.com/fk_small.jpeg)
+![](https://www.fedorkarmanov.com/fk_small.jpeg)
 
 
 I am currently a joint doctoral candidate in the [English Department](https://english.princeton.edu/people/fedor-karmanov) and the [Interdisciplinary Doctoral Program in the Humanities](https://ihum.princeton.edu/people/fedor-karmanov) at Princeton University. My research interests include world and postcolonial literature, literary translation, science and technology studies, and Marxist literary theory. 
