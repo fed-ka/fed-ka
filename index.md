@@ -2,4 +2,8 @@
 layout: default
 ---
 
-I am currently pursuing a PhD in English Literature at [Princeton University](https://english.princeton.edu/people/fedor-karmanov). If you would like to get in touch, [feel free to email me.](mailto:karmanov@princeton.edu)
+I am currently a joint doctoral candidate in the [English Department](https://english.princeton.edu/people/fedor-karmanov) and the [Interdisciplinary Doctoral Program in the Humanities](https://ihum.princeton.edu/people/fedor-karmanov) at Princeton University. My research interests include world and postcolonial literature, literary translation, science and technology studies, and literary theory. 
+
+My dissertation, tentatively titled "Simultaneity: Multiple Invention in Literary Form," attempts to theorize why certain artistic forms, techniques, and genres emerge independently—in different languages and countries—at the same time. I am affiliated with the [Center for the Digital Humanities](https://cdh.princeton.edu/people/students/) and the [Program in Russian, East European and Eurasian Studies](https://reees.princeton.edu/people/graduate-students). Two of my academic articles are forthcoming in _American Literary History_, _Modernism/modernity_, and _Cultural Analytics_. 
+
+Prior to coming to Princeton, I earned my B.A. and M.A. in English from McGill University. 
